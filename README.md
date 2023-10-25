@@ -7,5 +7,6 @@ Install: https://github.com/BurntSushi/ripgrep
 Notes:
 
 :Mason - browse Lsp Servers
+
 :LspInstall - Install an Lsp server based on the type of file currently open.
 
