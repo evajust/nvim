@@ -28,3 +28,6 @@ vim.opt.scrolloff = 8
 vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
+
+-- Make yank and paste buffer share with the system clipboard
+vim.opt.clipboard = "unnamedplus"
